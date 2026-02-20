@@ -95,7 +95,7 @@ Use these when presenting:
 
 ---
 
-## Replicability / Testing notes (prof‑proof) 🧪
+## Replicability / Testing notes 🧪
 - The notebook uses:
   - **scikit‑learn Pipelines** to prevent data leakage
   - fixed `random_state` for consistent splits
