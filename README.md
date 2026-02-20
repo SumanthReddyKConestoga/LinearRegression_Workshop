@@ -1,3 +1,8 @@
+# Week 6 — Statistical Classification & LOGISTIC Regression (Spotify Tracks)
+
+🚨 Note: Repository URL name is legacy. This project is 100% Logistic Regression (Week 6).
+
+
 # Logistic Regression Workshop — Spotify Tracks (Explicit vs Non‑Explicit)
 
 A clean, **Week‑6‑aligned** notebook that demonstrates how to frame a real dataset as a **probabilistic binary classification** problem using **Logistic Regression** — with **presentation‑ready EDA**, **advanced evaluation visuals**, and **crisp talking points**.
@@ -117,7 +122,7 @@ Use these when presenting:
 
 ---
 
-
+## https://github.com/hyuan0929/LogisticRegressionClassifier_Workshop   our Peers Gitlink
 
 ---
 
